@@ -1,0 +1,14 @@
+# Dev-C++ / MinGW binaries
+*.exe
+*.o
+*.obj
+*.log
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Windows specific
+Thumbs.db
+desktop.ini
